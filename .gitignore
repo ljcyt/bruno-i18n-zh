@@ -1,0 +1,16 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# 临时 / 本地产物
+_tmp/
+*.bak
+*.asar
+*.asar.unpacked/
